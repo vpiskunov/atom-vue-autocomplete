@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vue-autocomplete",
+        "command": "vue-autocomplete:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vue-autocomplete",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vue-autocomplete:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
