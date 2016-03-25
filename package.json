@@ -1,7 +1,7 @@
 {
   "name": "vue-autocomplete",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0-0.alpha",
   "description": "[WIP] Vue.js 1.0+ autocomplete for Atom",
   "keywords": [
     "vue",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "author": {
     "name": "Eduardo Alves"
-  }, 
+  },
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
