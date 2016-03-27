@@ -16,7 +16,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "fuzzaldrin": "^2.1.0"
+  },
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
