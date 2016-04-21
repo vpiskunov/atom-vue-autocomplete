@@ -2,7 +2,7 @@
   "name": "vue-autocomplete",
   "main": "./lib/main",
   "version": "0.1.0-0.alpha",
-  "description": "[WIP] Vue.js 1.0+ autocomplete for Atom",
+  "description": "Vue.js 1.0+ autocomplete for Atom",
   "keywords": [
     "vue",
     "autocomplete",
@@ -16,7 +16,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "fuzzaldrin": "^2.1.0"
+  },
   "providedServices": {
     "autocomplete.provider": {
       "versions": {

@@ -1,5 +1,31 @@
-# vue-autocomplete package
+# Atom autocomplete for Vue.js
 
-A short description of your package.
+> Package under active development inspired in
+> * [atom-reac-native-autocomplete](https://github.com/TOP-Chao/atom-react-native-autocomplete)
+> * [autocomplete-css](https://github.com/atom/autocomplete-css)
+> * [autocomplete-html](https://github.com/atom/autocomplete-html)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+### Supported tags
+
+* partial
+* slot
+
+### Supported attributes
+
+* v-text
+* v-html
+* v-if
+* v-show
+* v-else
+* v-for
+* v-on
+* v-bind
+* v-model
+* v-ref
+* v-el
+* v-pre
+* v-cloak
+
+### Contribution
+
+Is always welcome :D
