@@ -5,6 +5,7 @@
   "description": "Vue.js 1.0+ autocomplete for Atom",
   "keywords": [
     "vue",
+    "vue.js",
     "autocomplete",
     "provider"
   ],
