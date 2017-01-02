@@ -9,6 +9,8 @@
 
 * partial
 * slot
+* named slot
+* router-link
 
 ### Supported attributes
 
