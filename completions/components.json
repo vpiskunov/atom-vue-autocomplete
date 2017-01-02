@@ -24,6 +24,12 @@
         "snippet": "slot name=\"$1\"></slot>",
         "type": "tag",
         "rightLabelHTML": "vue.js"
+      },
+      {
+        "displayText": "Router Link",
+        "snippet": "router-link to=\"$1\"></router-link>",
+        "type": "tag",
+        "rightLabelHTML": "vue.js"
       }
     ]
   },
